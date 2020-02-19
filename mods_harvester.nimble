@@ -11,6 +11,6 @@ bin           = @["mods_harvester"]
 # Dependencies
 
 requires "nim >= 1.0.4"
-requires "oaitools >=  0.2.3"
+requires "oaitools >=  0.2.4"
 requires "argparse >= 0.10.0"
 requires "progress >=  1.1.1"
