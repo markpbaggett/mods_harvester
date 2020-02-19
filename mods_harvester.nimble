@@ -1,6 +1,6 @@
 # Package
 
-version       = "0.1.1"
+version       = "0.1.2"
 author        = "Mark Baggett"
 description   = "A simple binary to harvest all new MODS from an OAI provider."
 license       = "GPL-3.0"
